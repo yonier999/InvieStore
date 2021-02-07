@@ -140,14 +140,17 @@ a{
 }
 .progress-bar{
     background-color: #f39c12;
+    display: flex;
 }
 .progress_bar {
-  padding-left: 105px;
+  padding-right: 105px;
+  text-align: right;
 }
 .progress_bar p {
   color: #564f4f;
   margin: 0 0 10px;
   font-size: 18px;
+  text-align: right;
 }
 .progress {
   height: 10px;

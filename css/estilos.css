@@ -46,6 +46,9 @@ body {
     text-decoration: none;
     color: #fff;
     margin: 0 5px 20px 5px;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .category_list .ct_item-active {
@@ -63,7 +66,7 @@ body {
 
 .products-list .product-item {
     width: 22%;
-    margin-left: 3%;
+    margin-left: 2%;
     margin-bottom: 25px;
     box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.22);
     display: flex;

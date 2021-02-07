@@ -146,3 +146,7 @@ body {
         margin-left: 0px;
     }
 }
+
+.product-item img {
+    object-fit: cover;
+}

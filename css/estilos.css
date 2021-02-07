@@ -90,6 +90,11 @@ body {
     text-decoration: none;
 }
 
+.products-list .product-item a:hover {
+    color: #f39c12;
+    background-color: #C7C7C7;
+}
+
 
 /* RESPONSIVE */
 
